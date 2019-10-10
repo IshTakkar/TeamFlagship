@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662776231137",
+    "firebase_url": "https://fitso2-37460.firebaseio.com",
+    "project_id": "fitso2-37460",
+    "storage_bucket": "fitso2-37460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662776231137:android:091e31dc3562250b9f33a0",
+        "android_client_info": {
+          "package_name": "com.example.fitso2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662776231137-7ugrnq811blf3cir9kso1nhrpo9s5u4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF2bCclCzLj5OLIq6plW0y5tnOPUDTP4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662776231137-7ugrnq811blf3cir9kso1nhrpo9s5u4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
