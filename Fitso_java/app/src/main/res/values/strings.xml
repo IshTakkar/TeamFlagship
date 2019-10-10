@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fitso</string>
+    <string name="title_activity_login">ActivityLogin</string>
+</resources>
