@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900027957987",
+    "firebase_url": "https://login-details-c0ecc.firebaseio.com",
+    "project_id": "login-details-c0ecc",
+    "storage_bucket": "login-details-c0ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900027957987:android:7d61ad5dca3e0b4bb5fbd6",
+        "android_client_info": {
+          "package_name": "com.example.fitso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900027957987-g20mcfdnp30rpdi79h7jis8i7n1v7t8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnJMawlJymcs-ZTS9vG2wVzo5E4ui2JLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900027957987-g20mcfdnp30rpdi79h7jis8i7n1v7t8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
